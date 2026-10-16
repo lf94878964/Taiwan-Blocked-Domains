@@ -193,7 +193,7 @@ jobs:
                       description: $desc,
                       fields: [ { name: $field_name, value: ("```\n" + $chunk + "\n```") } ],
                       color: 3066993,
-                      footer: { text: "自我介紹文檔頁面 Commit通知" },
+                      footer: { text: "Taiwan Blocked Domains 頁面 Commit通知" },
                       timestamp: $ts
                     }
                   ]
